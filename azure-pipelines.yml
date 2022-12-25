@@ -7,6 +7,8 @@ strategy:
       operatingSystem: 'ubuntu-latest'
     mac:
       operatingSystem: 'macos-latest'
+    windowa:
+       operatingSystem: 'windows-latest'
 pool:
   vmImage: $(operatingSystem)
 
