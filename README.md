@@ -2,7 +2,7 @@
 
 # mvn-hello-world-web-app
 This is for POLL SCM Testing
-Java Hello World web application created using maven-archetype-webapp
+Java Hello World web application created using maven-archetype-webapp and related to demoWebApp
 Hello welcome to all leaders of Girls
 
 ## Blog Post Reference
